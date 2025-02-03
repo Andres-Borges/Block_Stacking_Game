@@ -24,9 +24,10 @@ This is a passion project with the means to learn C# coding practices. All the r
 ![Game Over](/Screenshots/game_over.png)
 
 ## Controls
-* C : Hold Block
-* Space : Drop Block
-* Up Arrow or W : Rotate Block
+* Up Arrow or W : Rotate Block Clockwise
+* Z : Rotate Block Counter Clockwise
 * Left Arrow or A : Move block to the left
 * Right Arrow or D : Move block to the right
-* Down Arrow or S : Move block down 
+* Down Arrow or S : Move block down
+* C : Hold Block
+* Space : Drop Block
