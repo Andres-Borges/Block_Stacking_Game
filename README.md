@@ -12,15 +12,16 @@ This is a passion project with the means to learn C# coding practices. All the r
 ## Screenshots
 
 ### Main Menu
-
+![Main Menu](/Screenshots/menu.png)
 
 ### Credits
-
+![Credits](/Screenshots/credits.png)
 
 ### Game
-
+![Credits](/Screenshots/game.png)
 
 ### Game Over
+![Game Over](/Screenshots/game_over.png)
 
 ## Controls
 * C : Hold Block
